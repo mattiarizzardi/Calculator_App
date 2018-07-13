@@ -1,4 +1,4 @@
-// Funzione che svlge prende in input gli operandi e svolge l'operazione richiesta:
+// Funzione che prende in input gli operandi e svolge l'operazione richiesta:
 
 function operate(numberOne, numberTwo, operation) {
     
