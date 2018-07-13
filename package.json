@@ -1,0 +1,26 @@
+{
+  "name": "calculator_app",
+  "version": "1.0.0",
+  "description": "A simple calculator app using Node Js and Express.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiarizzardi/Calculator_App.git"
+  },
+  "author": "Mattia Rizzardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattiarizzardi/Calculator_App/issues"
+  },
+  "homepage": "https://github.com/mattiarizzardi/Calculator_App#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "jest": "^23.4.0"
+  }
+}
